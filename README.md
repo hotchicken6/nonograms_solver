@@ -1,3 +1,5 @@
+# 数织解密器
+
 ***
 
 <div style="text-align: center;">
@@ -6,9 +8,6 @@
 </div>
 
 ***
-
-# 数织解密器
-
 ## 0. 功能(必须看)
 
 - [X] 简单题目能解决
@@ -205,6 +204,8 @@
 
 完成
 
+# Nonograms_Solver
+
 ***
 
 <div style="text-align: center;">
@@ -213,9 +214,6 @@
 </div>
 
 ***
-
-# Nonograms_Solver
-
 ## 0. Features (Must Read)
 
 - [X] Simple problems can be solved
