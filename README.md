@@ -269,7 +269,10 @@ There are (number) (left limit) (right limit)
 3 8 8
 
 If the right limit is less than or equal to the left limit, the coordinates from the right limit to the left limit are
-the inevitable filling points for this number.
+the inevitable filling points for this number.And then there are
+
+| 1 | 2 | 3 |   |   |   |   |   |   |   | ■ |   |   |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## 2.3 Step 3: Aggregation
 
