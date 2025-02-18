@@ -24,7 +24,7 @@
 
 ### 1.2 Online
 
-通过操控已打开的浏览器，打开一个数织游戏小网站(https://cn.puzzle-nonograms.com/)获取的行族和列族的信息和大小 **(
+通过操控已打开的浏览器，打开一个数织游戏小网站(https://cn.puzzle-nonograms.com)获取的行族和列族的信息和大小 **(
 仅支持正方形大小)**
 ，解出数织的解，并填入。
 
@@ -111,7 +111,7 @@
 
 # 3.例
 
-以数织游戏小网站(https://cn.puzzle-nonograms.com/),题号: 347917为例  
+以数织游戏小网站(https://cn.puzzle-nonograms.com),题号: 347917为例  
 **篇幅有限，全概率图不写出来**
 
 0
@@ -231,7 +231,7 @@ solution of the nonogram.
 
 ### 1.2 Online
 
-By controlling an opening browser, open a nonogram game website (https://cn.puzzle-nonograms.com/), retrieve the row and
+By controlling an opening browser, open a nonogram game website (https://www.puzzle-nonograms.com), retrieve the row and
 column family information and size **(only supports square size)**, solve the nonogram puzzle, and fill in the solution.
 
 #### tips:Requires some knowledge of web scraping
@@ -318,7 +318,7 @@ Then delete the empty total probability chart and those with marked X points, re
 
 # 3. Example
 
-Using the nonogram game website (https://cn.puzzle-nonograms.com/), question number: 347917 as an example.  
+Using the nonogram game website (https://www.puzzle-nonograms.com), question number: 347917 as an example.  
 **Due to space limitations, the total probability chart is not shown.**
 
 0
