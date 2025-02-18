@@ -1,0 +1,1 @@
+# nonograms_solver
